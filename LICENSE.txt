@@ -1,0 +1,20 @@
+Sprunki (MODDABLE) - Open Source Version
+Created by: wolf_hal (https://wolf-hal.itch.io/incredibox-sprunki)
+
+This game is open-source and modifiable, as stated by the original creator. By using or modifying this project, you agree to the following terms:
+
+1. Attribution:
+   - You must give proper credit to the original creator, **wolf_hal**.
+   - Include a link to the original game page: https://wolf-hal.itch.io/incredibox-sprunki.
+
+2. Modifications:
+   - You are free to modify and distribute this project, but you must clearly indicate the changes you made.
+   - Do not misrepresent the original work as your own.
+
+3. Commercial Use:
+   - Check the original creator's guidelines on commercial use. If no explicit permission is given for monetization, assume it is NOT allowed.
+
+4. Redistribution:
+   - If redistributing the project, you must include this license file and attribution to the original creator.
+
+For more information, visit the original game page: https://wolf-hal.itch.io/incredibox-sprunki.
